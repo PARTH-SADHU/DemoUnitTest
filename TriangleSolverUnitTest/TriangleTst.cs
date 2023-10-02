@@ -10,9 +10,9 @@ namespace PSTriangleSolverUnitTest
         [Test]
         public void Equilateral_Test()
         {
-            int firstSide = 15;
-            int secondSide = 15;     
-            int thirdSide = 15;
+            int firstSide = 45;
+            int secondSide = 45;     
+            int thirdSide = 45;
             string testingResult = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
             Assert.AreEqual("A triangle is formed and it is an EQUILATERAL", testingResult);
         }
