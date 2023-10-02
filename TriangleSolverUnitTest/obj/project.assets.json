@@ -1004,11 +1004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Parth\\Desktop\\Sem_2\\Assignment2\\TriangleSolverUnitTest\\TriangleSolverUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Parth\\Desktop\\Sem_2\\Parth_Sadhu_8892388Assignment 2\\TriangleSolverUnitTest\\TriangleSolverUnitTest.csproj",
       "projectName": "TriangleSolverUnitTest",
-      "projectPath": "C:\\Users\\Parth\\Desktop\\Sem_2\\Assignment2\\TriangleSolverUnitTest\\TriangleSolverUnitTest.csproj",
+      "projectPath": "C:\\Users\\Parth\\Desktop\\Sem_2\\Parth_Sadhu_8892388Assignment 2\\TriangleSolverUnitTest\\TriangleSolverUnitTest.csproj",
       "packagesPath": "C:\\Users\\Parth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Parth\\Desktop\\Sem_2\\Assignment2\\TriangleSolverUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Parth\\Desktop\\Sem_2\\Parth_Sadhu_8892388Assignment 2\\TriangleSolverUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Parth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1025,8 +1025,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Parth\\Desktop\\Sem_2\\Assignment2\\TriangleSolver\\TriangleSolver.csproj": {
-              "projectPath": "C:\\Users\\Parth\\Desktop\\Sem_2\\Assignment2\\TriangleSolver\\TriangleSolver.csproj"
+            "C:\\Users\\Parth\\Desktop\\Sem_2\\Parth_Sadhu_8892388Assignment 2\\TriangleSolver\\TriangleSolver.csproj": {
+              "projectPath": "C:\\Users\\Parth\\Desktop\\Sem_2\\Parth_Sadhu_8892388Assignment 2\\TriangleSolver\\TriangleSolver.csproj"
             }
           }
         }
